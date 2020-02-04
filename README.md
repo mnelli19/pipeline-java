@@ -1,3 +1,4 @@
+[![Build Status](https://sogeipocvsts.visualstudio.com/NewPipelineTest/_apis/build/status/mnelli19.pipeline-java%20(1)?branchName=master)](https://sogeipocvsts.visualstudio.com/NewPipelineTest/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
