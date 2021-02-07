@@ -1,5 +1,5 @@
 [![Build Status](https://sogeipocvsts.visualstudio.com/NewPipelineTest/_apis/build/status/mnelli19.pipeline-java%20(1)?branchName=master)](https://sogeipocvsts.visualstudio.com/NewPipelineTest/_build/latest?definitionId=7&branchName=master)
-modifica 1
+modifica 2
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
